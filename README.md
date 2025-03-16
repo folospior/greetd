@@ -1,3 +1,5 @@
+Fork of [greetd](https://git.sr.ht/~kennylevinsen/greetd), for personal testing.
+
 # greetd
 
 greetd is a minimal and flexible login manager daemon that makes no assumptions about what you want to launch.
